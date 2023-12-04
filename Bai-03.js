@@ -3,8 +3,8 @@
 let number = 100;
 let n;
 let arr = [];
-for (i = 0; i <= 100; i++) {
-    if (Math.sqrt(i) = n && n % 2 == 0) {
+for (i = 1; i <= 100; i++) {
+    if (Math.sqrt(i) % 2 == 0) {
         arr.splice(1, 0, i);
     }
 }
